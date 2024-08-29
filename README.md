@@ -2,4 +2,4 @@
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 ![Platform](https://img.shields.io/badge/platform-linux-yellow)
 [![test_python](https://github.com/csc510-group60/hw1/actions/workflows/main.yml/badge.svg)](https://github.com/csc510-group60/hw1/actions/workflows/main.yml)
-[![Coverage Status](https://coveralls.io/repos/github/apurv-choudhari/hw1/badge.svg?branch=main)](https://coveralls.io/github/apurv-choudhari/hw1?branch=main)
+[![codecov](https://codecov.io/gh/csc510-group60/hw1/graph/badge.svg?token=IPLQA3T4R7)](https://codecov.io/gh/csc510-group60/hw1)
